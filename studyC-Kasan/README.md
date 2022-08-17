@@ -1,6 +1,6 @@
 # Study C Basic
 C학습 리포지토리
-![CLogo](https://raw.githubusercontent.com/hugoMGSung/StudyC-Kasan/main/images/C_logo.png)
+![CLogo](https://raw.githubusercontent.com/hugoMGSung/works-need-it-from-c-to-cpp/main/studyC-Kasan/images/C_logo.png)
 
 <br/>
 
@@ -42,12 +42,12 @@ C학습 리포지토리
 <br/> 
  
 #### 실행화면
-![displaydata](https://raw.githubusercontent.com/hugoMGSung/StudyC-Kasan/main/images/display_data.png)
+![displaydata](https://raw.githubusercontent.com/hugoMGSung/works-need-it-from-c-to-cpp/main/studyC-Kasan/images/display_data.png)
 
 기본 조회화면
 
 <br/>
 
-![editdata](https://raw.githubusercontent.com/hugoMGSung/StudyC-Kasan/main/images/edit_data.png)
+![editdata](https://raw.githubusercontent.com/hugoMGSung/works-need-it-from-c-to-cpp/main/studyC-Kasan/images/edit_data.png)
 
 책정보 수정화면
