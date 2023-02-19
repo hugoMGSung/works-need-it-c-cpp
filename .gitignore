@@ -64,6 +64,9 @@ artifacts/
 # StyleCop
 StyleCopReport.xml
 
+# 실행파일 제외
+*.exe
+
 # Files built by Visual Studio
 *_i.c
 *_p.c
