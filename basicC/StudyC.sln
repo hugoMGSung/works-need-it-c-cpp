@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ch01", "Ch01", "{F7E0FE20-9486-4601-AE0F-BD0D183432D2}"
 EndProject
@@ -162,6 +162,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TemplateTests", "Chap01\TemplateTests\TemplateTests.vcxproj", "{0D816399-7D7D-4964-88B9-9C25CC013664}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SelectSortApps", "Chap99\SelectSortApps\SelectSortApps.vcxproj", "{7748FAA1-8A3E-4D17-86FD-505671E4010E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringTests", "Chap03\StringTests\StringTests.vcxproj", "{E5F82E91-1532-4862-965A-F47D3C5B359B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -785,6 +787,18 @@ Global
 		{7748FAA1-8A3E-4D17-86FD-505671E4010E}.Release|x64.Build.0 = Release|x64
 		{7748FAA1-8A3E-4D17-86FD-505671E4010E}.Release|x86.ActiveCfg = Release|Win32
 		{7748FAA1-8A3E-4D17-86FD-505671E4010E}.Release|x86.Build.0 = Release|Win32
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Debug|Any CPU.Build.0 = Debug|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Debug|x64.ActiveCfg = Debug|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Debug|x64.Build.0 = Debug|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Debug|x86.Build.0 = Debug|Win32
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Release|Any CPU.ActiveCfg = Release|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Release|Any CPU.Build.0 = Release|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Release|x64.ActiveCfg = Release|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Release|x64.Build.0 = Release|x64
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Release|x86.ActiveCfg = Release|Win32
+		{E5F82E91-1532-4862-965A-F47D3C5B359B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -850,6 +864,7 @@ Global
 		{A25587B7-BB54-4B61-9F0C-6D18FD68F5A7} = {F7E0FE20-9486-4601-AE0F-BD0D183432D2}
 		{0D816399-7D7D-4964-88B9-9C25CC013664} = {F7E0FE20-9486-4601-AE0F-BD0D183432D2}
 		{7748FAA1-8A3E-4D17-86FD-505671E4010E} = {B1F1211B-91E8-42BB-8BD9-2B309DF87180}
+		{E5F82E91-1532-4862-965A-F47D3C5B359B} = {4FD1657F-618B-40CB-8E6B-21D7746683D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6B1F3FA4-51B8-4F0D-9C01-97961F79DE1D}
