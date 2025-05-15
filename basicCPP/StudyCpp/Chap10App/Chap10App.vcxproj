@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{382d16bf-b966-4602-ab36-20b3021b2770}</ProjectGuid>
-    <RootNamespace>Chap03App</RootNamespace>
+    <ProjectGuid>{b6148da5-9a27-4b13-9179-72801116057f}</ProjectGuid>
+    <RootNamespace>Chap10App</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,17 +127,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="contructor_test.cpp" />
-    <ClCompile Include="ConvertClass.cpp" />
-    <ClCompile Include="HumanCopy.cpp" />
-    <ClCompile Include="human_destr_test.cpp" />
-    <ClCompile Include="InfoHide.cpp" />
-    <ClCompile Include="InitConstMember.cpp" />
-    <ClCompile Include="InitRefMemer.cpp" />
-    <ClCompile Include="int2Time.cpp" />
-    <ClCompile Include="newHuman.cpp" />
-    <ClCompile Include="TimeCopy.cpp" />
-    <ClCompile Include="time_constr_test.cpp" />
+    <ClCompile Include="Ccast.cpp" />
+    <ClCompile Include="ConstCast.cpp" />
+    <ClCompile Include="DynamicCast.cpp" />
+    <ClCompile Include="MemberPointer.cpp" />
+    <ClCompile Include="MemberPointerOp.cpp" />
+    <ClCompile Include="MemberPtr1.cpp" />
+    <ClCompile Include="Rtti.cpp" />
+    <ClCompile Include="StaticCast2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cursor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
