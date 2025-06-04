@@ -10,6 +10,9 @@ C/CPP 관련 작업 모두 모아두기
 ### 기본 C++ 강의
 - [링크](./basicCPP/README.md)
 
+### Forouzan C++
+- [링크](./forouzan-cpp/README.md)
+
 ### 알쏭달쏭 C언어 180제 중
 - 포인터 파트 10장 학습
 
